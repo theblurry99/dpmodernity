@@ -3,7 +3,7 @@ a proof of concept modern version of the DreamProject website.
 
 - written and designed by Peach
 - maintained and taken care of while designing by theblurry99
-- fully built on vb code
+- fully built on vs code
 
 embrace modernity! ...but not windows 11
 
