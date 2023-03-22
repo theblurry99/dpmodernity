@@ -1,7 +1,7 @@
 # DreamProject Modernity
 a proof of concept modern version of the DreamProject website.
 
-- written and designed by Peach
+- written and designed by @pexch
 - maintained and taken care of while designing by theblurry99
 - fully built on vs code
 
